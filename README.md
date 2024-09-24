@@ -8,7 +8,7 @@ Version goodbyedpi-0.2.3rc3-2 (https://github.com/ValdikSS/GoodbyeDPI/releases/d
 
 Запускаем update-HEX.bat,строка копируется в буфер обмена
 
-Открываем 1_russia_blacklist_YOUTUBE через Notepad++ и заменяем данную строку: ![изображение](https://github.com/user-attachments/assets/4b89e9e1-f73d-445e-8191-5fed6904ef98)
+Открываем 1_russia_blacklist_YOUTUBE через Notepad++ и заменяем данную строку: [изображение](https://github.com/user-attachments/assets/4b89e9e1-f73d-445e-8191-5fed6904ef98)
  на то что выдал скрипт
 
 Оригинальная статья https://habr.com/ru/articles/845114/

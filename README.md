@@ -12,4 +12,5 @@ Version goodbyedpi-0.2.3rc3-2 (https://github.com/ValdikSS/GoodbyeDPI/releases/d
  на то что выдал скрипт
 
 Сохраняем закрываем и радуемся рабочему ютубу
+
 Оригинальная статья https://habr.com/ru/articles/845114/

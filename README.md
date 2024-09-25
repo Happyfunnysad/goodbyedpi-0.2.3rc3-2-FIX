@@ -1,27 +1,22 @@
-Готовая сборка
- 
- https://github.com/Happyfunnysad/goodbyedpi-0.2.3rc3-2-FIX/raw/refs/heads/main/goodbyedpi-0.2.3rc3-2.rar
+# GoodbyeDPI Инструкция по установке
 
-***********************************************************************************************************************
+## Готовая сборка
+[Скачать готовую сборку GoodbyeDPI](https://github.com/Happyfunnysad/goodbyedpi-0.2.3rc3-2-FIX/raw/refs/heads/main/goodbyedpi-0.2.3rc3-2.rar)
 
-Оригинал GoodbyeDPI
- 
- https://github.com/ValdikSS/GoodbyeDPI/releases/download/0.2.3rc3/goodbyedpi-0.2.3rc3-2.zip
-***********************************************************************************************************************
-ИНСТРУКЦИЯ
-***********************************************************************************************************************
-                                                               
-Запускаем от админа service_remove(если был до этого установлен)
+## Оригинал GoodbyeDPI
+[Скачать оригинал GoodbyeDPI](https://github.com/ValdikSS/GoodbyeDPI/releases/download/0.2.3rc3/goodbyedpi-0.2.3rc3-2.zip)
 
-Выбираем все service_install >enter>пробел 
+## Инструкция по установке
 
-Запускаем  0_russia_update_blacklist_file,если не обнавляет переходим  https://p.thenewone.lol/domains-export.txt > копируем все в russia-blacklist
+1. Запустите `service_remove` от имени администратора, если GoodbyeDPI был установлен ранее.
+2. Выберите все, затем выполните `service_install` и нажмите `Enter`, затем `Пробел`.
+3. Запустите `0_russia_update_blacklist_file`. Если обновление не происходит, перейдите по [ссылке](https://p.thenewone.lol/domains-export.txt) и скопируйте все содержимое в файл `russia-blacklist`.
+4. Запустите `update-HEX.bat`. Скопируйте строку в буфер обмена.
+5. Откройте `1_russia_blacklist_YOUTUBE` с помощью Notepad++ и замените строку, как показано на изображении:
+   ![Изображение](https://github.com/user-attachments/assets/4b89e9e1-f73d-445e-8191-5fed6904ef98)
+   на ту, что выдал скрипт.
+6. Сохраните изменения и закройте файл.
+7. Запустите GoodbyeDPI и наслаждайтесь работой YouTube!
 
-Запускаем update-HEX.bat,строка копируется в буфер обмена
-
-Открываем 1_russia_blacklist_YOUTUBE через Notepad++ и заменяем данную строку: [изображение](https://github.com/user-attachments/assets/4b89e9e1-f73d-445e-8191-5fed6904ef98)
- на то что выдал скрипт
-
-Сохраняем закрываем и радуемся рабочему ютубу
-
-Оригинальная статья https://habr.com/ru/articles/845114/
+## Оригинальная статья
+[Читать оригинальную статью на Habr](https://habr.com/ru/articles/845114/)

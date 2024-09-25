@@ -2,7 +2,7 @@
 
 ***********************************************************************************************************************
 
-Оригинал GoodbyeDPI (https://github.com/ValdikSS/GoodbyeDPI/releases/download/0.2.3rc3/goodbyedpi-0.2.3rc3-2.zip)
+Оригинал GoodbyeDPI https://github.com/ValdikSS/GoodbyeDPI/releases/download/0.2.3rc3/goodbyedpi-0.2.3rc3-2.zip
 
 
 ***********************************************************************************************************************

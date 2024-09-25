@@ -1,10 +1,10 @@
-Готовая сборка https://github.com/Happyfunnysad/goodbyedpi-0.2.3rc3-2-FIX/raw/refs/heads/main/goodbyedpi-0.2.3rc3-2.rar
+Готовая сборка
+ https://github.com/Happyfunnysad/goodbyedpi-0.2.3rc3-2-FIX/raw/refs/heads/main/goodbyedpi-0.2.3rc3-2.rar
 
 ***********************************************************************************************************************
 
-Оригинал GoodbyeDPI https://github.com/ValdikSS/GoodbyeDPI/releases/download/0.2.3rc3/goodbyedpi-0.2.3rc3-2.zip
-
-
+Оригинал 
+GoodbyeDPI https://github.com/ValdikSS/GoodbyeDPI/releases/download/0.2.3rc3/goodbyedpi-0.2.3rc3-2.zip
 ***********************************************************************************************************************
 ИНСТРУКЦИЯ
 ***********************************************************************************************************************

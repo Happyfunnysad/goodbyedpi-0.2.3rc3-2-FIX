@@ -1,5 +1,9 @@
-Version goodbyedpi-0.2.3rc3-2 (https://github.com/ValdikSS/GoodbyeDPI/releases/download/0.2.3rc3/goodbyedpi-0.2.3rc3-2.zip)
 Готовая сборка https://github.com/Happyfunnysad/goodbyedpi-0.2.3rc3-2-FIX/raw/refs/heads/main/goodbyedpi-0.2.3rc3-2.rar
+
+***********************************************************************************************************************
+
+Оригинал GoodbyeDPI (https://github.com/ValdikSS/GoodbyeDPI/releases/download/0.2.3rc3/goodbyedpi-0.2.3rc3-2.zip)
+ 
 Запускаем от админа service_remove(если был до этого установлен)
 
 Выбираем все service_install >enter>пробел 

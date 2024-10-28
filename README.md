@@ -5,7 +5,8 @@
 
 ## Оригинал GoodbyeDPI
 [Скачать оригинал GoodbyeDPI](https://github.com/ValdikSS/GoodbyeDPI/releases/download/0.2.3rc3/goodbyedpi-0.2.3rc3-2.zip)
-
+Поблагодарить за старания можно 
+USDT (trc20) TZDzNwP3vPxxQaG7pte596hncUTKUZuESf
 ## Инструкция по установке
 
 1. Запустите `service_remove` от имени администратора, если GoodbyeDPI был установлен ранее.
@@ -20,3 +21,8 @@
 
 ## Оригинальная статья
 [Читать оригинальную статью на Habr](https://habr.com/ru/articles/845114/)
+
+# Поблагодарить за старания можно 
+## USDT (trc20) TZDzNwP3vPxxQaG7pte596hncUTKUZuESf
+## TON (trc20) UQCFMTv6oyLJz5k1iYPvFUIEH-7V00Jk6ICDh7KqlIzlfdiV
+## BTC 15ZBu87SCGhbWzbLj1qMbJ1qeU9FpbEMi6
